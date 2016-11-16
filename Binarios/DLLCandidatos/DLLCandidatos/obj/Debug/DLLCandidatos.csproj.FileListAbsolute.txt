@@ -1,0 +1,6 @@
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\DLLCandidatos\DLLCandidatos\bin\Debug\DLLCandidatos.dll
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\DLLCandidatos\DLLCandidatos\bin\Debug\DLLCandidatos.pdb
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\DLLCandidatos\DLLCandidatos\bin\Debug\DLLCandidatos.dll.CodeAnalysisLog.xml
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\DLLCandidatos\DLLCandidatos\bin\Debug\DLLCandidatos.dll.lastcodeanalysissucceeded
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\DLLCandidatos\DLLCandidatos\obj\Debug\DLLCandidatos.dll
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\DLLCandidatos\DLLCandidatos\obj\Debug\DLLCandidatos.pdb

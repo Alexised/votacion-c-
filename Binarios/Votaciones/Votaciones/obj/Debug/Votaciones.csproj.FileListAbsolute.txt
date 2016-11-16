@@ -1,0 +1,70 @@
+C:\Users\WIN 7\AppData\Local\Temporary Projects\Votaciones\bin\Debug\Votaciones.exe.config
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\bin\Debug\Votaciones.exe.config
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\bin\Debug\Votaciones.exe
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\bin\Debug\Votaciones.pdb
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.Finalizar.resources
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.Form1.resources
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.Maestro.resources
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.Properties.Resources.resources
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.csproj.GenerateResource.Cache
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.exe
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.pdb
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.Votar.resources
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.FinElecciones.resources
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\bin\Debug\DLLCandidatos.dll
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\bin\Debug\DLLCandidatos.pdb
+C:\Users\WIN 7\Desktop\Practica2 Desarrollo\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.csprojResolveAssemblyReference.cache
+E:\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\bin\Debug\Votaciones.exe.config
+E:\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.exe
+E:\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.pdb
+E:\Desarrollo De Software Daniel\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\bin\Debug\Votaciones.exe.config
+E:\Desarrollo De Software Daniel\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.exe
+E:\Desarrollo De Software Daniel\Daniel Esteban Ortiz Rios\Votaciones\Votaciones\obj\Debug\Votaciones.pdb
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\bin\Debug\Votaciones.exe.config
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.exe
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.pdb
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\bin\Debug\Votaciones.exe
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\bin\Debug\Votaciones.pdb
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\bin\Debug\DLLCandidatos.dll
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\bin\Debug\DLLCandidatos.pdb
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.csprojResolveAssemblyReference.cache
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Finalizar.resources
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.FinElecciones.resources
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Form1.resources
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Maestro.resources
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Properties.Resources.resources
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Votar.resources
+E:\CARPETA ELIANA\desarrollo\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.csproj.GenerateResource.Cache
+C:\Users\salak401\Desktop\Binarios\Votaciones\Votaciones\bin\Debug\Votaciones.exe.config
+C:\Users\salak401\Desktop\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.exe
+C:\Users\salak401\Desktop\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.pdb
+E:\Binarios\Votaciones\Votaciones\bin\Debug\Votaciones.exe.config
+E:\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.exe
+E:\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.pdb
+E:\Binarios\Votaciones\Votaciones\bin\Debug\Votaciones.exe
+E:\Binarios\Votaciones\Votaciones\bin\Debug\Votaciones.pdb
+E:\Binarios\Votaciones\Votaciones\bin\Debug\DLLCandidatos.dll
+E:\Binarios\Votaciones\Votaciones\bin\Debug\DLLCandidatos.pdb
+E:\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.csprojResolveAssemblyReference.cache
+E:\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Finalizar.resources
+E:\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.FinElecciones.resources
+E:\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Form1.resources
+E:\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Maestro.resources
+E:\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Properties.Resources.resources
+E:\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Votar.resources
+E:\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.csproj.GenerateResource.Cache
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\bin\Debug\Votaciones.exe.config
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.exe
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.pdb
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\bin\Debug\Votaciones.exe
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\bin\Debug\Votaciones.pdb
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\bin\Debug\DLLCandidatos.dll
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\bin\Debug\DLLCandidatos.pdb
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Finalizar.resources
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.FinElecciones.resources
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Form1.resources
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Maestro.resources
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Properties.Resources.resources
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.Votar.resources
+C:\Users\David\Downloads\Binarios\Binarios\Votaciones\Votaciones\obj\Debug\Votaciones.csproj.GenerateResource.Cache
